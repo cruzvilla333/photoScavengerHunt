@@ -4,6 +4,8 @@ Submitted by: Cruz Villafranca
 
 **Name of your app** is an app that allows users to make, edit and delete a list of activities, these activities can have photos attachted to them which then marks them as complete.
 
+GIF link: https://www.loom.com/embed/da50dd96d09a4b0c8d8800e2e14ce931?sid=2d6e4b7a-979e-4ac4-8701-9f30fe1ba2a4
+
 Time spent: 25
 
 ## Required Features
